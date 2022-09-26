@@ -2,7 +2,7 @@ ALL IS WELL!!
 
 problems from below
 
-| | |
+|  |  |
 
 V V V
 
